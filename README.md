@@ -40,6 +40,7 @@ When accessing the Instagram platform, access the stories and scroll to the side
 
 ## 💻 Configuration for Development
 To use this tool, you need to have an application downloaded and an account logged into one of the META platforms such as Instagram or Facebook.
+https://www.instagram.com/ar/916134139792051/?ch=ZmI2ZGQ3MTdjNjUwNjhlNmJhNTZmY2JjYmE5OTE2ODY%3D
 
 ## 🎓 References
 1. <https://sparkar.facebook.com/ar-studio/>
